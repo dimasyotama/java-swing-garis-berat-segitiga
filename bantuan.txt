@@ -1,0 +1,27 @@
+   --- Aplikasi Penghitung Garis Berat ---
+
+Ini adalah aplikasi yang memudahkan pengguna untuk
+menghitung suatu garis berat dalam sebuah segitiga
+aplikasi ini hanya bisa menghitung garis berat jika 
+semua sisi yang ada pada segitiga sudah diketahui.
+Keluaran program akan berbentuk angka desimal bukan
+angka kuadrat atau pecahan.
+
+Navigasi:
+1. Tombol lets Go   => masuk ke perhitungan garis berat.
+2. Tombol Hitung    => untuk kalkulasi sisi-sisi dan menghitung garisberat.
+3. Tombol bantuan   => cara penggunaan dan deskripsi aplikasi.
+4. Soal 	    => kumpulan beberapa soal garis berat segitiga.
+5. Tombol Kembali   => untuk kembali ke halaman sebelumnya.
+6. Tombol terus     => untuk beralih ke halaman selanjutnya.
+7. Tombol bersihkan => untuk reset input yang telah masuk hasil inputan yang telah ditampikan.
+8. Tombol Jawaban   => untuk melihat jawaban tiap soal.
+8. Tombol tutup     => untuk keluar dari aplikasi(berada pada soal4) 
+
+
+Cara Pemakaian:
+1. Masukkan sisi-sisi yang ada pada segitiga.
+2. Setelah itu sistem akan menghitung secara otomatis sisi-sisi     
+   tersebut dalam bentuk rumus garis berat segitiga.
+3. Tekan bersihkan jika ingin membersihkan tab-tab yang ada dengan    
+   otomatis
